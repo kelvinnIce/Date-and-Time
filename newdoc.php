@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-	 <title>My Figma</title>
+	 <title>My Figma<</title>
 	 <style type="text/css">
    
         body{
